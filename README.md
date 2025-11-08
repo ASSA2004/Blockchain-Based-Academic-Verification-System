@@ -1,4 +1,4 @@
-Of course. Here is a comprehensive and professional README.md file for your project, created from the provided codebase and structured to be clear for any developer. It contains no personal names.
+
 
 Blockchain Academic Verification System
 
